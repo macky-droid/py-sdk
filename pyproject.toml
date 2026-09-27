@@ -52,7 +52,7 @@ Issues = "https://github.com/Polymarket/py-sdk/issues"
 
 [dependency-groups]
 dev = [
-  "pytest>=8,<9",
+  "pytest>=8,<10",
   "pytest-cov>=6,<7",
   "respx>=0.22,<1",
   "ruff>=0.11,<1",
