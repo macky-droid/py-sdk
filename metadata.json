@@ -1,0 +1,8 @@
+{
+  "name": "Polymarket Explorer & Trading Hub",
+  "description": "Interactive Polymarket prediction markets explorer, live order books, price history, trending events, and portfolio analytics.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
